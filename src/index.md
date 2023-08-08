@@ -5,17 +5,16 @@ layout: base
 {{ site.description }}
 
 ## Ten pages
-- package.json
-- eleventy.config.js
-- .gitignore
-- README.md
-- site.json
-- header.liquid
-- footer.liquid
-- base.liquid
-- index.md
-- 404.html
+- /package.json
+- /eleventy.config.js
+- /.gitignore
+- /README.md
+- /_data/site.json
+- /src/_includes/header.liquid
+- /src/_includes/footer.liquid
+- /src/_layouts/base.liquid
+- /src/index.md
+- /src/404.html
 
-## Final steps
-- git init
-- git push to GitHub
+## Final step
+- push to GitHub
