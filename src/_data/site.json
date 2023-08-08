@@ -1,0 +1,9 @@
+{
+    "name": "Company",
+    "description": "Eleventy basic template to start a new project",
+    "authorName": "Michel Maillard",
+    "authorUrl": "https://michelmaillard.ch/",
+    "github": "https://github.com/mobile-michel/basic",
+    "favicon": "https://11ty.recipes/images/meta/favicon.svg",
+    "css": "https://cdn.jsdelivr.net/npm/@picocss/pico@next/css/pico.min.css"
+}
