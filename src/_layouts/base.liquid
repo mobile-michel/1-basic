@@ -8,10 +8,12 @@
     <link rel="icon" href="{{ site.favicon }}" type="image/svg+xml">
     <title>{{ title }} - {{ site.name }}</title>
     <link rel="stylesheet" href="{{ site.css }}">
+    <script src="/assets/js/uikit.min.js"></script>
+    <script src="/assets/js/uikit-icons.min.js"></script>
   </head>
   <body>
-    {% include 'header' %}
-    <main class="container">
+    {% include 'header-new' %}
+    <main class="uk-container uk-padding">
       <h1>{{ title }}</h1>
       {{ content }}
     </main>
